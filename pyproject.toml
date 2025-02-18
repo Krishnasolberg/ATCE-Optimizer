@@ -19,10 +19,7 @@ pre-commit = "^3.6.2"
 public-api-extractor = ">=0.2.11"
 alive-progress = "^3.2.0"
 
-[[tool.poetry.source]]
-name = "mesa-artifactory"
-url = "https://artifactory.statnett.no/artifactory/api/pypi/mesa-pypi-local/simple/"
-priority = "supplemental"
+
 
 
 [tool.isort]

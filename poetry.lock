@@ -3077,10 +3077,7 @@ pyarrow = ">=17.0.0,<18.0.0"
 pyarrow-hotfix = ">=0.6,<0.7"
 uvicorn = ">=0.30.6,<0.31.0"
 
-[package.source]
-type = "legacy"
-url = "https://artifactory.statnett.no/artifactory/api/pypi/mesa-pypi-local/simple"
-reference = "mesa-artifactory"
+
 
 [[package]]
 name = "pure-eval"
